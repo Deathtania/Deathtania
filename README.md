@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Deathtania
 - 👀 I’m a music and film enthusiast
-- 🌱 I’m currently learning how to code
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: lowkey a yapper
 <!---
